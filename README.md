@@ -1,4 +1,4 @@
-jquery_mobile_tutorials
-=======================
+juery-mobile-advanced
+======================
 
-These are some tutorials to get you started on jQuery Mobile. They range from simple to pretty complex.
+Some more advanced features using jQuery Mobile.
